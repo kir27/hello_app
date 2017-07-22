@@ -1,0 +1,1 @@
+hello_app from Michael Hurtl`s Rails tutorial
